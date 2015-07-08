@@ -1,2 +1,1 @@
-# SymbianBook_ru
-Book about programming for Symbian 9.x based smartphones in russian
+В данной папке находится макет и обложка книги "Symbian C++. Программирование для мобильных телефонов" подготовленные издательским домом [Вильямс](http://www.williamspublishing.com/). Файлы распространяются с разрешения издательства под лицензией [CC-BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.ru). Исходный текст книги под лицензией [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/deed.ru), допускающей распространение некоммерческих адаптаций произведения, можно найти в соседней папке.
