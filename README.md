@@ -1,4 +1,5 @@
-Book about programming for Symbian 9.x based smartphones in russian.
+Book about programming for Symbian 9.x based smartphones in russian.  
+Published in 2010. ISBN 978-5-8459-1629-7.
 
 <p align="center">
 <img alt="book cover" src="https://github.com/trufanov-nok/SymbianBook_ru/blob/master/pdf/cover.jpg" />
